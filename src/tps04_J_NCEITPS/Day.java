@@ -1,0 +1,5 @@
+package tps04_J_NCEITPS;
+
+public enum Day {
+	MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY;
+}
